@@ -1,0 +1,34 @@
+[{
+    "id": 1,
+    "train": "Sabari Express",
+	"stations" : [{"station": "Trivandrum", "value": "Trivandrum"},{"station": "Kollam JN", "value": "Kollam JN"},{"station": "Tirupur", "value": "Tirupur"},{"station": "Thrisur", "value": "Thrisur"}]
+}, {
+    "id": 2,
+    "train": "AP Express",
+	"stations" : [{"station": "New Delhi", "value": "New Delhi"},{"station": "Agra", "value": "Agra"},{"station": "Gwalior", "value": "Gwalior"},{"station": "Bhopal", "value": "Bhopal"}]
+}, {
+    "id": 3,
+    "train": "Tamilnadu Express",
+	"stations" : [{"station": "Wrangal", "value": "Wrangal"},{"station": "Nagpur", "value": "Nagpur"},{"station": "Bhopal", "value": "Bhopal"},{"station": "Agra Cantt", "value": "Agra Cantt"}]
+}, {
+    "id": 4,
+    "text": "Dynabox"
+}, {
+    "id": 5,
+    "text": "Avaveo"
+}, {
+    "id": 6,
+    "text": "Demivee"
+}, {
+    "id": 7,
+    "text": "Jayo"
+}, {
+    "id": 8,
+    "text": "Blognation"
+}, {
+    "id": 9,
+    "text": "Podcat"
+}, {
+    "id": 10,
+    "text": "Layo"
+}]

@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "restaurant": "Bakery",
+	"foods" : [{"title": "bread", "price": "100"},{"title": "pav", "price": "101"},{"title": "sweet buns", "price": "102"},{"title": "pasta", "price": "103"}]
+}, {
+    "id": 2,
+    "restaurant": "Kitchen",
+	"foods" : [{"title": "biscuits", "price": "200"},{"title": "muffins", "price": "201"},{"title": "pizza", "price": "202"},{"title": "pies", "price": "203"}]
+}, {
+    "id": 3,
+    "restaurant": "Haldirams",
+	"foods" : [{"title": "biscuits", "price": "300"},{"title": "muffins", "price": "301"},{"title": "pizza", "price": "302"},{"title": "pies", "price": "303"}]
+}, {
+    "id": 4,
+    "restaurant": "PizzaHut",
+	"foods" : [{"title": "Veg Pizza", "price": "400"},{"title": "Veg Mayonnaise", "price": "401"},{"title": "Cookies", "price": "402"},{"title": "Garlic Bread", "price": "403"}]
+}, {
+    "id": 4,
+    "restaurant": "FoodMania",
+	"foods" : [{"title": "Veg Pizza", "price": "400"},{"title": "Veg Mayonnaise", "price": "401"},{"title": "Cookies", "price": "402"},{"title": "Garlic Bread", "price": "403"}]
+}, {
+    "id": 4,
+    "restaurant": "FoodHut",
+	"foods" : [{"title": "Veg Pizza", "price": "400"},{"title": "Veg Mayonnaise", "price": "401"},{"title": "Cookies", "price": "402"},{"title": "Garlic Bread", "price": "403"}]
+}, {
+    "id": 4,
+    "restaurant": "Sweet Cakes",
+	"foods" : [{"title": "Veg Pizza", "price": "400"},{"title": "Veg Mayonnaise", "price": "401"},{"title": "Cookies", "price": "402"},{"title": "Garlic Bread", "price": "403"}]
+}, {
+    "id": 4,
+    "restaurant": "Thali Foods",
+	"foods" : [{"title": "Veg Pizza", "price": "400"},{"title": "Veg Mayonnaise", "price": "401"},{"title": "Cookies", "price": "402"},{"title": "Garlic Bread", "price": "403"}]
+}, {
+    "id": 4,
+    "restaurant": "KhanaMania",
+	"foods" : [{"title": "Veg Pizza", "price": "400"},{"title": "Veg Mayonnaise", "price": "401"},{"title": "Cookies", "price": "402"},{"title": "Garlic Bread", "price": "403"}]
+}, {
+    "id": 4,
+    "restaurant": "FoodPanda",
+	"foods" : [{"title": "Veg Pizza", "price": "400"},{"title": "Veg Mayonnaise", "price": "401"},{"title": "Cookies", "price": "402"},{"title": "Garlic Bread", "price": "403"}]
+}]

@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "station": "Trivandrum",
+	"restaurants" : [{"title": "Bakery", "value": "./assets/bakery.PNG", "desc": "Get best bakery items"},{"title": "Kitchen", "value": "./assets/kitchen.PNG","desc": "Get best bakery items"},{"title": "Haldirams", "value": "./assets/pigeon.PNG" ,"desc": "Get best bakery items"},{"title": "PizzaHut", "value": "./assets/pigeon.PNG" ,"desc": "Get Hot & spicy pizzas"}]
+}, {
+    "id": 2,
+    "station": "Kollam JN",
+	"restaurants" : [{"title": "FoodPanda", "value": "./assets/bakery.PNG", "desc": "Get best bakery items"},{"title": "KhanaMania", "value": "./assets/kitchen.PNG","desc": "Get best bakery items"},{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"}]
+}, {
+    "id": 3,
+    "station": "Tirupur",
+	"restaurants" : [{"title": "Grill & Sandwitches", "value": "./assets/bakery.PNG", "desc": "Get best bakery items"},{"title": "Bakers Oven", "value": "./assets/bakersoven.jpg","desc": "Get best bakery items"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"}]
+}, {
+    "id": 4,
+    "station": "Thrisur",
+	"restaurants" : [{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"}]
+}, {
+    "id": 5,
+    "station": "New Delhi",
+	"restaurants" : [{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"}]
+}, {
+    "id": 6,
+    "station": "Agra",
+	"restaurants" : [{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"}]
+}, {
+    "id": 7,
+    "station": "Bhopal",
+	"restaurants" : [{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"}]
+}, {
+    "id": 8,
+    "station": "Thrisur",
+	"restaurants" : [{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"}]
+}, {
+    "id": 9,
+    "station": "Gwalior",
+	"restaurants" : [{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"}]
+}, {
+   "id": 10,
+    "station": "Thrisur",
+	"restaurants" : [{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"}]
+},
+{
+   "id": 11,
+    "station": "Wrangal",
+	"restaurants" : [{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"}]
+},
+{
+   "id": 12,
+    "station": "Nagpur",
+	"restaurants" : [{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"}]
+},
+{
+   "id": 13,
+    "station": "Bhopal",
+	"restaurants" : [{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"}]
+},
+{
+   "id": 14,
+    "station": "Agra Cantt",
+	"restaurants" : [{"title": "FoodMania", "value": "./assets/foodmania.jpg" ,"desc": "Get best bakery items"},{"title": "FoodHut", "value": "./assets/foodhut.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Thali Foods", "value": "./assets/thalifoods.jpg" ,"desc": "Get Hot & spicy pizzas"},{"title": "Sweet Cakes", "value": "./assets/sweetcakes.jpg" ,"desc": "Get best bakery items"}]
+}
+
+
+
+
+
+
+
+
+
+]
