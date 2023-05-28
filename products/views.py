@@ -81,10 +81,12 @@ def placeOrder(request):
         if(items is not None):
             cartList = None
             cartList = list(items.values())
-            print(cartList)
             headers_data = {'Content-Type': 'application/json', 'Accept':'application/json'}
             response = requests.post('http://127.0.0.1:8002/api/admdash/orders/place/', json=cartList, headers=headers_data)
             resp = (response.content).decode('utf-8')
+            print(resp)
+            if response.status_code == status.HTTP_200_OK:
+                items.delete()
             return JsonResponse(resp, safe=False, status=response.status_code)
         else:
             return JsonResponse({'message': 'Cart is empty!'}, status=status.HTTP_204_NO_CONTENT)
